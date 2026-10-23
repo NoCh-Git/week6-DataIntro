@@ -1,4 +1,4 @@
-# Session 6 --- Intro to Data Course
+# Session 6 — Intro to Data Course
 
 This repository contains the materials for **Session 6** of *Intro to Data*.
 
